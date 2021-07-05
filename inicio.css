@@ -8,6 +8,14 @@ body {
   color: #28302b;
 }
 
+.Logotipos{
+    width: 95px;
+    height: 100px;
+    padding: 10px 0;
+}
+.iconos-redes-header{
+    width: 20px;
+    margin: 10px 5px;
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
